@@ -1,6 +1,7 @@
 package months;
 
 public class Month {
+
     public final String name;
     public final int days;
 
